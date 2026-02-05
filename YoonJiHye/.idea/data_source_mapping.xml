@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="das://15a83bbf-fc07-4aaf-a366-9f8a9b68937e/schema/motor_chata/table/tbl_recall.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_1.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_10.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
@@ -25,6 +26,10 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_28.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_29.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_3.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_30.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_31.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_32.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_33.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_4.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_5.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/15a83bbf-fc07-4aaf-a366-9f8a9b68937e/console_6.sql" value="15a83bbf-fc07-4aaf-a366-9f8a9b68937e" />
