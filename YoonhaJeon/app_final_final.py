@@ -66,7 +66,7 @@ with tab_list:
     with r2[2]:
         search_text = st.text_input(
             "검색(제작사/차명)",
-            placeholder="예: 현대, 아반떼, BMW i5 ...",
+            placeholder="예: 현대, 아반떼, 무쏘 EV ...",
         ).strip()
 
     # UI 선택값 → DB 파라미터
